@@ -1,0 +1,9 @@
+# ninja log v5
+6	763	7332788962821340	build.ninja	c85b6e53004ea8f7
+1	9	0	clean	f0819b41ab4c6e17
+1481	1602	7332746414467631	opencvtest.exe	ca39dd03c9068b60
+1296	1423	7332766771357375	HSVColorFiltering.exe	17d92ca2b4b9211e
+0	1406	7332750286419870	CMakeFiles/HSVColorFiltering.dir/main.cpp.obj	148f2892affef460
+4	1295	7332766770119514	CMakeFiles/HSVColorFiltering.dir/HSVColorFiltering.cpp.obj	df08cd689b39bb25
+4	1319	7332789556237719	CMakeFiles/HSVColorFiltering.dir/HSVColorFiltering.cpp.obj	df08cd689b39bb25
+1320	1457	7332789557589471	HSVColorFiltering.exe	17d92ca2b4b9211e

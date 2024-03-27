@@ -1,0 +1,3 @@
+C:/Users/MSI/CLionProjects/HSVColorFiltering/cmake-build-debug/CMakeFiles/HSVColorFiltering.dir
+C:/Users/MSI/CLionProjects/HSVColorFiltering/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI/CLionProjects/HSVColorFiltering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
